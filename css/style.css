@@ -1,0 +1,17 @@
+body{
+  height: 100vh;
+}
+
+#bulb{
+  width: 500px;
+  height: 500px;
+  display: flex;
+}
+
+.bulb-on {
+  background: url("../img/BulbOn.jpg") no-repeat center center;
+}
+
+.bulb-off {
+  background: url("../img/BulbOff.jpg") no-repeat center center;
+}
